@@ -1,4 +1,21 @@
-# Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+# Assignment Title: Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+
+## Course Title: Computer Ethics and Cyber Law
+
+## Course Code: CSE 455
+
+### Submitted By
+
+Name: Sadia Mahmud 
+Student ID: 2002054  
+Level: 4, Semester: II  
+Department of Computer Science and Engineering,HSTU.
+
+### Submitted To
+
+Pankaj Bhowmik  
+Lecturer  
+Department of Computer Science and Engineering,HSTU. 
 
 ## Introduction
 
